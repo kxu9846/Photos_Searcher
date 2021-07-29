@@ -13,7 +13,7 @@ Run the following terminal commands in the root directory of the project.
 4. `python3 -m pip install -r requirements.txt`
 
 # Yarn Setup:
-Navigate to the rokt-app directory and install the below.
+Navigate to the photo-app directory and install the below.
 1. `npm install`
 2. `npm run build`
 
